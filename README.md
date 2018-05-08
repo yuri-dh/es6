@@ -11,7 +11,15 @@ $ npm install
 ```
 
 
-Escribir nuestro código ES6 en el directorio **src**
+&nbsp;
+
+
+
+**Escribir nuestro código ES6 en el directorio "src"**
+
+
+
+&nbsp;
 
 
 Correr el servidor de desarrollo con
